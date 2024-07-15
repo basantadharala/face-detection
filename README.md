@@ -2,6 +2,7 @@
 Welcome to the Face Mask Detection project! This repository contains the code for a deep learning-based face mask detection system. The system can detect whether a person is wearing a mask or not, using TensorFlow for model training and Streamlit for deploying a web application.
 
 # Table of Contents
+# Demo Video
 # Introduction
 # Features
 # Installation
@@ -10,6 +11,12 @@ Welcome to the Face Mask Detection project! This repository contains the code fo
 # Web Application
 # Contributing
 # License
+
+# Demo Video
+Here is the demo video
+https://github.com/user-attachments/assets/6ea83089-4f6f-43bf-a840-50effc67a52e
+
+
 ## Introduction
 This project aims to provide an efficient and accurate face mask detection system. With the rise of the COVID-19 pandemic, ensuring the proper use of face masks has become crucial. This application can be used in various environments such as offices, shopping malls, and public transport to monitor and ensure compliance with mask-wearing guidelines.
 
